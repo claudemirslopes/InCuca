@@ -23,15 +23,18 @@ Foi utilizado o PageBuilder Elementor para construir a Home do site e utilizado 
 - `Starter Templates`: Recurso que vem com o tema Astra
 - `WP-Optimize`: Otimização de desempenho das páginas (Limpeza do cache e compactação de imagens)
 - `Yoast SEO`: Recursos de SEO otimizado nas páginas
+- `Duplicator`: Para se criar o backup do site e da base de dados
 - `Wordfence Security`: Recurso de segurança no site (Não ativado)
 
 ## 📁 Acesso ao projeto
 
-**Instalado na máquina local, junto a este diretório acompanha a base com o nome sitewp.sql (Usuário: "root" - Senha "" (em branco)**
+**Instalado na máquina local (Utilizado XAMPP, pasta htdocs/public/incuca), junto a este diretório acompanha a base com o nome incuca.sql (Usuário: "root" - Senha "" (em branco) na pasta SQL | O acesso ao painel administrativo se dá por http://localhost/public/incuca/wp-admin/ | Acessos - usuário:digital senha: #Vencer100%)**
 
 ## 🛠️ Abrir e rodar o projeto
 
-**Para executar o projeto basta instalar em máquina local, criar uma base de dados com o nome tal e com as informações de acesso informados anteriormente.**
+**Para executar o projeto basta instalar em máquina local, criar uma base de dados com o nome incuca e senha vazia e com as informações de acesso informados anteriormente.**
+
+**Pode ser utilizado o plugin DUPLICATOR para a exportação de todo o conteúdo**
 
 ## 📚 Mais informações do projeto
 

@@ -1,6 +1,6 @@
 ## Readme Law Firm (Teste InCuca)
 
-Teste em WordPress de participação do processo seletivo para desenvolvedor WordPress/PHO da Empresa [InCuca](https://incuca.net/). O objetivo deste teste é verificar as habilidades no desenvolvimento de sites em WordPress, [Veja o link do site pronto](https://sites.openbeta.com.br/incuca/).
+Teste em WordPress de participação do processo seletivo para desenvolvedor WordPress/PHP da Empresa [InCuca](https://incuca.net/). O objetivo deste teste é verificar as habilidades no desenvolvimento de sites em WordPress, [Veja o link do site pronto](https://sites.openbeta.com.br/incuca/).
   
 # Descrição do projeto
 

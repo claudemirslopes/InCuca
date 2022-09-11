@@ -38,4 +38,5 @@ Foi utilizado o PageBuilder Elementor para construir a Home do site e utilizado 
 
 ## 📚 Mais informações do projeto
 
+**Todo o projeto pode ser acessado via GitHub por [AQUI](https://github.com/claudemirslopes/InCuca)**
 **Desenvolvido por Claudemir da Silva Lopes (Candidato)**

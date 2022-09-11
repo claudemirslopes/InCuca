@@ -1,0 +1,359 @@
+[2022-09-11 12:51:52 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-09-11 12:51:53 : INFO] - 
+ 
+[2022-09-11 12:51:53 : INFO] - Header for logs at time:  Sun, 11 Sep 2022 12:51:53 +0000 on https://sites.openbeta.com.br/incuca 
+[2022-09-11 12:51:53 : INFO] - WP: 6.0.2 
+[2022-09-11 12:51:53 : INFO] - PHP: 7.4.28 (litespeed, Linux br872.hostgator.com.br 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-09-11 12:51:53 : INFO] - MySQL: 5.6.41 
+[2022-09-11 12:51:53 : INFO] - WPLANG: pt_BR 
+[2022-09-11 12:51:53 : INFO] - Server: Apache 
+[2022-09-11 12:51:53 : INFO] - Outbound connections: N 
+[2022-09-11 12:51:53 : INFO] - safe_mode: 0 
+[2022-09-11 12:51:53 : INFO] - max_execution_time: 60 
+[2022-09-11 12:51:53 : INFO] - memory_limit: 512M (used: 20.6M | 24M) 
+[2022-09-11 12:51:53 : INFO] - multisite: N 
+[2022-09-11 12:51:53 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-09-11 12:51:54 : INFO] - A total of 19 tasks of type smush found and will be processed in this iteration 
+[2022-09-11 12:51:54 : DEBUG] - Lock option (updraft_lock_smush, wp26_options) was created in the database 
+[2022-09-11 12:51:54 : INFO] - Lock (updraft_lock_smush, wp26_options) acquired after initialising the database 
+[2022-09-11 12:51:54 : INFO] - Processing task with ID : 29, and type 'smush' 
+[2022-09-11 12:51:54 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:51:54 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:51:54 : INFO] - 60 
+[2022-09-11 12:51:56 : INFO] - Backing up the original image - 2022/05/logo-updraft-pre-smush-original.png 
+[2022-09-11 12:51:56 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:51:56 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:51:56 : INFO] - 60 
+[2022-09-11 12:51:57 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:51:57 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:51:57 : INFO] - 60 
+[2022-09-11 12:51:58 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:51:58 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:51:58 : INFO] - 60 
+[2022-09-11 12:51:59 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:51:59 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:51:59 : INFO] - 60 
+[2022-09-11 12:52:00 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:00 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:00 : INFO] - 60 
+[2022-09-11 12:52:01 : INFO] - Re_Smush_It_Task - Attachment ID : 4779, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:01 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:01 : INFO] - 60 
+[2022-09-11 12:52:02 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/05/logo.png.The file was compressed from 129.53 KB to 64.68 KB saving 50.07 percent using WP-Optimize 
+[2022-09-11 12:52:02 : INFO] - Completed processing task with ID : 29, and type 'smush' 
+[2022-09-11 12:52:02 : INFO] - Processing task with ID : 30, and type 'smush' 
+[2022-09-11 12:52:02 : INFO] - Re_Smush_It_Task - Attachment ID : 4780, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:02 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:02 : INFO] - 60 
+[2022-09-11 12:52:04 : INFO] - Backing up the original image - 2022/05/logo_light-updraft-pre-smush-original.png 
+[2022-09-11 12:52:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4780, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:04 : INFO] - 60 
+[2022-09-11 12:52:04 : INFO] - Re_Smush_It_Task - Attachment ID : 4780, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:04 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:04 : INFO] - 60 
+[2022-09-11 12:52:05 : INFO] - Task with ID 30 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-09-11 12:52:05 : INFO] - Re_Smush_It_Task - Attachment ID : 4780, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:05 : INFO] - 60 
+[2022-09-11 12:52:05 : INFO] - Re_Smush_It_Task - Attachment ID : 4780, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:05 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:05 : INFO] - 60 
+[2022-09-11 12:52:06 : INFO] - Re_Smush_It_Task - Attachment ID : 4780, Started on : September 11, 2022 12:51:53 
+[2022-09-11 12:52:06 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:06 : INFO] - 60 
+[2022-09-11 12:52:09 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/05/logo_light.png.The file was compressed from 125.30 KB to 68.90 KB saving 45.01 percent using WP-Optimize 
+[2022-09-11 12:52:09 : INFO] - Completed processing task with ID : 30, and type 'smush' 
+[2022-09-11 12:52:09 : INFO] - Processing task with ID : 31, and type 'smush' 
+[2022-09-11 12:52:09 : INFO] - Re_Smush_It_Task - Attachment ID : 4876, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:09 : INFO] - 60 
+[2022-09-11 12:52:10 : INFO] - Backing up the original image - 2022/09/banner-updraft-pre-smush-original.jpg 
+[2022-09-11 12:52:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4876, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:10 : INFO] - 60 
+[2022-09-11 12:52:10 : INFO] - Re_Smush_It_Task - Attachment ID : 4876, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:10 : INFO] - 60 
+[2022-09-11 12:52:11 : INFO] - Re_Smush_It_Task - Attachment ID : 4876, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:11 : INFO] - 60 
+[2022-09-11 12:52:11 : INFO] - Re_Smush_It_Task - Attachment ID : 4876, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:11 : INFO] - 60 
+[2022-09-11 12:52:12 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/banner.jpg.The file was compressed from 118.49 KB to 39.71 KB saving 66.49 percent using WP-Optimize 
+[2022-09-11 12:52:12 : INFO] - Completed processing task with ID : 31, and type 'smush' 
+[2022-09-11 12:52:12 : INFO] - Processing task with ID : 32, and type 'smush' 
+[2022-09-11 12:52:12 : INFO] - Re_Smush_It_Task - Attachment ID : 4878, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:12 : INFO] - 60 
+[2022-09-11 12:52:13 : INFO] - Backing up the original image - 2022/09/transparencia-updraft-pre-smush-original.png 
+[2022-09-11 12:52:13 : INFO] - Re_Smush_It_Task - Attachment ID : 4878, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:13 : INFO] - 60 
+[2022-09-11 12:52:13 : INFO] - Re_Smush_It_Task - Attachment ID : 4878, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:13 : INFO] - 60 
+[2022-09-11 12:52:14 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/transparencia.png.The file was compressed from 1.25 KB to 148 bytes saving 88.45 percent using WP-Optimize 
+[2022-09-11 12:52:14 : INFO] - Completed processing task with ID : 32, and type 'smush' 
+[2022-09-11 12:52:14 : INFO] - Processing task with ID : 33, and type 'smush' 
+[2022-09-11 12:52:14 : INFO] - Re_Smush_It_Task - Attachment ID : 4924, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:14 : INFO] - 60 
+[2022-09-11 12:52:14 : INFO] - Backing up the original image - 2022/09/favicon-updraft-pre-smush-original.png 
+[2022-09-11 12:52:14 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/favicon.png.The file was compressed from 2.16 KB to 1.82 KB saving 15.89 percent using WP-Optimize 
+[2022-09-11 12:52:14 : INFO] - Completed processing task with ID : 33, and type 'smush' 
+[2022-09-11 12:52:14 : INFO] - Processing task with ID : 34, and type 'smush' 
+[2022-09-11 12:52:14 : INFO] - Re_Smush_It_Task - Attachment ID : 4991, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:14 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:14 : INFO] - 60 
+[2022-09-11 12:52:15 : INFO] - Backing up the original image - 2022/09/Objeto-Inteligente-de-Vetor-updraft-pre-smush-original.png 
+[2022-09-11 12:52:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4991, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:15 : INFO] - 60 
+[2022-09-11 12:52:15 : INFO] - Re_Smush_It_Task - Attachment ID : 4991, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:15 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:15 : INFO] - 60 
+[2022-09-11 12:52:16 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/Objeto-Inteligente-de-Vetor.png.The file was compressed from 12.99 KB to 6.41 KB saving 50.64 percent using WP-Optimize 
+[2022-09-11 12:52:16 : INFO] - Completed processing task with ID : 34, and type 'smush' 
+[2022-09-11 12:52:16 : INFO] - Processing task with ID : 35, and type 'smush' 
+[2022-09-11 12:52:16 : INFO] - Re_Smush_It_Task - Attachment ID : 5009, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:16 : INFO] - 60 
+[2022-09-11 12:52:16 : INFO] - Backing up the original image - 2022/09/icon01-updraft-pre-smush-original.png 
+[2022-09-11 12:52:16 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/icon01.png.The file was compressed from 1.88 KB to 1.65 KB saving 12.6 percent using WP-Optimize 
+[2022-09-11 12:52:16 : INFO] - Completed processing task with ID : 35, and type 'smush' 
+[2022-09-11 12:52:16 : INFO] - Processing task with ID : 36, and type 'smush' 
+[2022-09-11 12:52:16 : INFO] - Re_Smush_It_Task - Attachment ID : 5010, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:16 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:16 : INFO] - 60 
+[2022-09-11 12:52:17 : INFO] - Backing up the original image - 2022/09/icon02-updraft-pre-smush-original.png 
+[2022-09-11 12:52:17 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/icon02.png.The file was compressed from 3.73 KB to 3.20 KB saving 14.08 percent using WP-Optimize 
+[2022-09-11 12:52:17 : INFO] - Completed processing task with ID : 36, and type 'smush' 
+[2022-09-11 12:52:17 : INFO] - Processing task with ID : 37, and type 'smush' 
+[2022-09-11 12:52:17 : INFO] - Re_Smush_It_Task - Attachment ID : 5011, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:17 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:17 : INFO] - 60 
+[2022-09-11 12:52:18 : INFO] - Backing up the original image - 2022/09/icon03-updraft-pre-smush-original.png 
+[2022-09-11 12:52:18 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/icon03.png.The file was compressed from 3.05 KB to 2.18 KB saving 28.42 percent using WP-Optimize 
+[2022-09-11 12:52:18 : INFO] - Completed processing task with ID : 37, and type 'smush' 
+[2022-09-11 12:52:18 : INFO] - Processing task with ID : 38, and type 'smush' 
+[2022-09-11 12:52:18 : INFO] - Re_Smush_It_Task - Attachment ID : 5012, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:18 : INFO] - 60 
+[2022-09-11 12:52:18 : INFO] - Backing up the original image - 2022/09/icon04-updraft-pre-smush-original.png 
+[2022-09-11 12:52:18 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/icon04.png.The file was compressed from 4.23 KB to 3.31 KB saving 21.63 percent using WP-Optimize 
+[2022-09-11 12:52:18 : INFO] - Completed processing task with ID : 38, and type 'smush' 
+[2022-09-11 12:52:18 : INFO] - Processing task with ID : 39, and type 'smush' 
+[2022-09-11 12:52:18 : INFO] - Re_Smush_It_Task - Attachment ID : 5040, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:18 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:18 : INFO] - 60 
+[2022-09-11 12:52:20 : INFO] - Backing up the original image - 2022/09/Scales-of-Justice-in-courtroom-updraft-pre-smush-original.png 
+[2022-09-11 12:52:20 : INFO] - Re_Smush_It_Task - Attachment ID : 5040, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:20 : INFO] - 60 
+[2022-09-11 12:52:20 : INFO] - Re_Smush_It_Task - Attachment ID : 5040, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:20 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:20 : INFO] - 60 
+[2022-09-11 12:52:22 : INFO] - Re_Smush_It_Task - Attachment ID : 5040, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:22 : INFO] - 60 
+[2022-09-11 12:52:22 : INFO] - Re_Smush_It_Task - Attachment ID : 5040, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:22 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:22 : INFO] - 60 
+[2022-09-11 12:52:23 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/Scales-of-Justice-in-courtroom.png.The file was compressed from 314.44 KB to 155.84 KB saving 50.44 percent using WP-Optimize 
+[2022-09-11 12:52:23 : INFO] - Completed processing task with ID : 39, and type 'smush' 
+[2022-09-11 12:52:23 : INFO] - Processing task with ID : 40, and type 'smush' 
+[2022-09-11 12:52:23 : INFO] - Re_Smush_It_Task - Attachment ID : 5056, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:23 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:23 : INFO] - 60 
+[2022-09-11 12:52:24 : INFO] - Backing up the original image - 2022/09/pessoa_1-updraft-pre-smush-original.png 
+[2022-09-11 12:52:24 : INFO] - Re_Smush_It_Task - Attachment ID : 5056, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:24 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:24 : INFO] - 60 
+[2022-09-11 12:52:25 : INFO] - Re_Smush_It_Task - Attachment ID : 5056, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:25 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:25 : INFO] - 60 
+[2022-09-11 12:52:26 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/pessoa_1.png.The file was compressed from 50.70 KB to 34.94 KB saving 31.08 percent using WP-Optimize 
+[2022-09-11 12:52:26 : INFO] - Completed processing task with ID : 40, and type 'smush' 
+[2022-09-11 12:52:26 : INFO] - Processing task with ID : 41, and type 'smush' 
+[2022-09-11 12:52:26 : INFO] - Re_Smush_It_Task - Attachment ID : 5057, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:26 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:26 : INFO] - 60 
+[2022-09-11 12:52:27 : INFO] - Backing up the original image - 2022/09/pessoa_2-updraft-pre-smush-original.png 
+[2022-09-11 12:52:27 : INFO] - Re_Smush_It_Task - Attachment ID : 5057, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:27 : INFO] - 60 
+[2022-09-11 12:52:27 : INFO] - Re_Smush_It_Task - Attachment ID : 5057, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:27 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:27 : INFO] - 60 
+[2022-09-11 12:52:28 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/pessoa_2.png.The file was compressed from 54.39 KB to 38.23 KB saving 29.7 percent using WP-Optimize 
+[2022-09-11 12:52:28 : INFO] - Completed processing task with ID : 41, and type 'smush' 
+[2022-09-11 12:52:28 : INFO] - Processing task with ID : 42, and type 'smush' 
+[2022-09-11 12:52:28 : INFO] - Re_Smush_It_Task - Attachment ID : 5058, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:28 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:28 : INFO] - 60 
+[2022-09-11 12:52:29 : INFO] - Backing up the original image - 2022/09/pessoa_3-updraft-pre-smush-original.png 
+[2022-09-11 12:52:29 : INFO] - Re_Smush_It_Task - Attachment ID : 5058, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:29 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:29 : INFO] - 60 
+[2022-09-11 12:52:30 : INFO] - Re_Smush_It_Task - Attachment ID : 5058, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:30 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:30 : INFO] - 60 
+[2022-09-11 12:52:31 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/pessoa_3.png.The file was compressed from 58.50 KB to 41.11 KB saving 29.72 percent using WP-Optimize 
+[2022-09-11 12:52:31 : INFO] - Completed processing task with ID : 42, and type 'smush' 
+[2022-09-11 12:52:31 : INFO] - Processing task with ID : 43, and type 'smush' 
+[2022-09-11 12:52:31 : INFO] - Re_Smush_It_Task - Attachment ID : 5059, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:31 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:31 : INFO] - 60 
+[2022-09-11 12:52:32 : INFO] - Backing up the original image - 2022/09/pessoa_4-updraft-pre-smush-original.png 
+[2022-09-11 12:52:32 : INFO] - Re_Smush_It_Task - Attachment ID : 5059, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:32 : INFO] - 60 
+[2022-09-11 12:52:32 : INFO] - Re_Smush_It_Task - Attachment ID : 5059, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:32 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:32 : INFO] - 60 
+[2022-09-11 12:52:33 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/pessoa_4.png.The file was compressed from 45.95 KB to 31.76 KB saving 30.87 percent using WP-Optimize 
+[2022-09-11 12:52:33 : INFO] - Completed processing task with ID : 43, and type 'smush' 
+[2022-09-11 12:52:33 : INFO] - Processing task with ID : 44, and type 'smush' 
+[2022-09-11 12:52:33 : INFO] - Re_Smush_It_Task - Attachment ID : 5193, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:33 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:33 : INFO] - 60 
+[2022-09-11 12:52:34 : INFO] - Backing up the original image - 2022/09/blogimg1-updraft-pre-smush-original.jpg 
+[2022-09-11 12:52:34 : INFO] - Re_Smush_It_Task - Attachment ID : 5193, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:34 : INFO] - 60 
+[2022-09-11 12:52:34 : INFO] - Re_Smush_It_Task - Attachment ID : 5193, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:34 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:34 : INFO] - 60 
+[2022-09-11 12:52:35 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/blogimg1.jpg.The file was compressed from 35.60 KB to 16.39 KB saving 53.95 percent using WP-Optimize 
+[2022-09-11 12:52:35 : INFO] - Completed processing task with ID : 44, and type 'smush' 
+[2022-09-11 12:52:35 : INFO] - Processing task with ID : 45, and type 'smush' 
+[2022-09-11 12:52:35 : INFO] - Re_Smush_It_Task - Attachment ID : 5194, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:35 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:35 : INFO] - 60 
+[2022-09-11 12:52:36 : INFO] - Backing up the original image - 2022/09/blogimg2-updraft-pre-smush-original.jpg 
+[2022-09-11 12:52:36 : INFO] - Re_Smush_It_Task - Attachment ID : 5194, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:36 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:36 : INFO] - 60 
+[2022-09-11 12:52:37 : INFO] - Re_Smush_It_Task - Attachment ID : 5194, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:37 : INFO] - 60 
+[2022-09-11 12:52:37 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/blogimg2.jpg.The file was compressed from 80.33 KB to 35.51 KB saving 55.8 percent using WP-Optimize 
+[2022-09-11 12:52:37 : INFO] - Completed processing task with ID : 45, and type 'smush' 
+[2022-09-11 12:52:37 : INFO] - Processing task with ID : 46, and type 'smush' 
+[2022-09-11 12:52:37 : INFO] - Re_Smush_It_Task - Attachment ID : 5195, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:37 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:37 : INFO] - 60 
+[2022-09-11 12:52:39 : INFO] - Backing up the original image - 2022/09/blogimg3-updraft-pre-smush-original.jpg 
+[2022-09-11 12:52:39 : INFO] - Re_Smush_It_Task - Attachment ID : 5195, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:39 : INFO] - 60 
+[2022-09-11 12:52:39 : INFO] - Re_Smush_It_Task - Attachment ID : 5195, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:39 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:39 : INFO] - 60 
+[2022-09-11 12:52:40 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/blogimg3.jpg.The file was compressed from 98.16 KB to 48.79 KB saving 50.29 percent using WP-Optimize 
+[2022-09-11 12:52:40 : INFO] - Completed processing task with ID : 46, and type 'smush' 
+[2022-09-11 12:52:40 : INFO] - Processing task with ID : 47, and type 'smush' 
+[2022-09-11 12:52:40 : INFO] - Re_Smush_It_Task - Attachment ID : 5212, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:40 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:40 : INFO] - 60 
+[2022-09-11 12:52:41 : INFO] - Backing up the original image - 2022/09/fundo_img-updraft-pre-smush-original.png 
+[2022-09-11 12:52:41 : INFO] - Re_Smush_It_Task - Attachment ID : 5212, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:41 : INFO] - 60 
+[2022-09-11 12:52:41 : INFO] - Re_Smush_It_Task - Attachment ID : 5212, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:41 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:41 : INFO] - 60 
+[2022-09-11 12:52:42 : INFO] - Re_Smush_It_Task - Attachment ID : 5212, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:42 : INFO] - 60 
+[2022-09-11 12:52:42 : INFO] - Re_Smush_It_Task - Attachment ID : 5212, Started on : September 11, 2022 12:51:54 
+[2022-09-11 12:52:42 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 12:52:42 : INFO] - 60 
+[2022-09-11 12:52:43 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/fundo_img.png.The file was compressed from 7.53 KB to 4.11 KB saving 45.46 percent using WP-Optimize 
+[2022-09-11 12:52:43 : INFO] - Completed processing task with ID : 47, and type 'smush' 
+[2022-09-11 12:52:43 : INFO] - Lock option (updraft_lock_smush, wp26_options) released 
+[2022-09-11 12:52:43 : INFO] - Successfully processed the queue (smush). 19 tasks were processed out of 19. 
+[2022-09-11 12:52:43 : INFO] - Lock option (updraft_lock_smush, wp26_options) was deleted from the database 
+[2022-09-11 12:52:43 : INFO] - Cleaning up tasks of type (smush). A total of 25 tasks will be deleted. 
+[2022-09-11 13:00:40 : INFO] - Re_Smush_It_Task with attachment ID : 5277, autocreated on : September 11, 2022 01:00:40 
+[2022-09-11 13:00:42 : INFO] - Re_Smush_It_Task with attachment ID : 5278, autocreated on : September 11, 2022 01:00:42 
+[2022-09-11 13:00:44 : INFO] - Re_Smush_It_Task with attachment ID : 5279, autocreated on : September 11, 2022 01:00:44 
+[2022-09-11 13:02:06 : INFO] - Re_Smush_It_Task server status: Online 
+[2022-09-11 13:02:07 : INFO] - 
+ 
+[2022-09-11 13:02:07 : INFO] - Header for logs at time:  Sun, 11 Sep 2022 13:02:07 +0000 on https://sites.openbeta.com.br/incuca 
+[2022-09-11 13:02:07 : INFO] - WP: 6.0.2 
+[2022-09-11 13:02:07 : INFO] - PHP: 7.4.28 (litespeed, Linux br872.hostgator.com.br 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-09-11 13:02:07 : INFO] - MySQL: 5.6.41 
+[2022-09-11 13:02:07 : INFO] - WPLANG: pt_BR 
+[2022-09-11 13:02:07 : INFO] - Server: Apache 
+[2022-09-11 13:02:07 : INFO] - Outbound connections: N 
+[2022-09-11 13:02:07 : INFO] - safe_mode: 0 
+[2022-09-11 13:02:07 : INFO] - max_execution_time: 60 
+[2022-09-11 13:02:07 : INFO] - memory_limit: 512M (used: 20.5M | 24M) 
+[2022-09-11 13:02:07 : INFO] - multisite: N 
+[2022-09-11 13:02:07 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-09-11 13:02:07 : INFO] - A total of 3 tasks of type smush found and will be processed in this iteration 
+[2022-09-11 13:02:07 : DEBUG] - Lock option (updraft_lock_smush, wp26_options) was created in the database 
+[2022-09-11 13:02:07 : INFO] - Lock (updraft_lock_smush, wp26_options) acquired after initialising the database 
+[2022-09-11 13:02:07 : INFO] - Processing task with ID : 48, and type 'smush' 
+[2022-09-11 13:02:07 : INFO] - Re_Smush_It_Task with attachment ID : 5277, autocreated on : September 11, 2022 01:00:40 
+[2022-09-11 13:02:07 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:07 : INFO] - 60 
+[2022-09-11 13:02:08 : INFO] - Backing up the original image - 2022/09/1imagem-updraft-pre-smush-original.jpg 
+[2022-09-11 13:02:08 : INFO] - Re_Smush_It_Task with attachment ID : 5277, autocreated on : September 11, 2022 01:00:40 
+[2022-09-11 13:02:08 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:08 : INFO] - 60 
+[2022-09-11 13:02:09 : INFO] - Re_Smush_It_Task with attachment ID : 5277, autocreated on : September 11, 2022 01:00:40 
+[2022-09-11 13:02:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:09 : INFO] - 60 
+[2022-09-11 13:02:09 : INFO] - Task with ID 48 and type (smush) failed with error code 402 - Cannot copy from uploaded file 
+[2022-09-11 13:02:09 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/1imagem.jpg.The file was compressed from 183.80 KB to 55.51 KB saving 69.8 percent using WP-Optimize 
+[2022-09-11 13:02:09 : INFO] - Completed processing task with ID : 48, and type 'smush' 
+[2022-09-11 13:02:09 : INFO] - Processing task with ID : 49, and type 'smush' 
+[2022-09-11 13:02:09 : INFO] - Re_Smush_It_Task with attachment ID : 5278, autocreated on : September 11, 2022 01:00:42 
+[2022-09-11 13:02:09 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:09 : INFO] - 60 
+[2022-09-11 13:02:10 : INFO] - Backing up the original image - 2022/09/2imagem-updraft-pre-smush-original.jpeg 
+[2022-09-11 13:02:10 : INFO] - Re_Smush_It_Task with attachment ID : 5278, autocreated on : September 11, 2022 01:00:42 
+[2022-09-11 13:02:10 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:10 : INFO] - 60 
+[2022-09-11 13:02:11 : INFO] - Re_Smush_It_Task with attachment ID : 5278, autocreated on : September 11, 2022 01:00:42 
+[2022-09-11 13:02:11 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:11 : INFO] - 60 
+[2022-09-11 13:02:12 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/2imagem.jpeg.The file was compressed from 90.08 KB to 31.75 KB saving 64.75 percent using WP-Optimize 
+[2022-09-11 13:02:12 : INFO] - Completed processing task with ID : 49, and type 'smush' 
+[2022-09-11 13:02:12 : INFO] - Processing task with ID : 50, and type 'smush' 
+[2022-09-11 13:02:12 : INFO] - Re_Smush_It_Task with attachment ID : 5279, autocreated on : September 11, 2022 01:00:44 
+[2022-09-11 13:02:12 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:12 : INFO] - 60 
+[2022-09-11 13:02:13 : INFO] - Backing up the original image - 2022/09/3imagem-updraft-pre-smush-original.jpg 
+[2022-09-11 13:02:13 : INFO] - Re_Smush_It_Task with attachment ID : 5279, autocreated on : September 11, 2022 01:00:44 
+[2022-09-11 13:02:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:13 : INFO] - 60 
+[2022-09-11 13:02:13 : INFO] - Re_Smush_It_Task with attachment ID : 5279, autocreated on : September 11, 2022 01:00:44 
+[2022-09-11 13:02:13 : INFO] - There were no WebP conversion tools found on your server. 
+[2022-09-11 13:02:13 : INFO] - 60 
+[2022-09-11 13:02:14 : INFO] - Successfully optimized the image - /home2/openbe48/sites.openbeta.com.br/incuca/wp-content/uploads/2022/09/3imagem.jpg.The file was compressed from 98.91 KB to 50.93 KB saving 48.51 percent using WP-Optimize 
+[2022-09-11 13:02:14 : INFO] - Completed processing task with ID : 50, and type 'smush' 
+[2022-09-11 13:02:14 : INFO] - Lock option (updraft_lock_smush, wp26_options) released 
+[2022-09-11 13:02:14 : INFO] - Successfully processed the queue (smush). 3 tasks were processed out of 3. 
+[2022-09-11 13:02:14 : INFO] - Lock option (updraft_lock_smush, wp26_options) was deleted from the database 
+[2022-09-11 13:02:14 : INFO] - Cleaning up tasks of type (smush). A total of 3 tasks will be deleted. 
+[2022-09-11 13:06:01 : INFO] - 
+ 
+[2022-09-11 13:06:01 : INFO] - Header for logs at time:  Sun, 11 Sep 2022 13:06:01 +0000 on https://sites.openbeta.com.br/incuca 
+[2022-09-11 13:06:01 : INFO] - WP: 6.0.2 
+[2022-09-11 13:06:01 : INFO] - PHP: 7.4.28 (litespeed, Linux br872.hostgator.com.br 4.19.150-76.ELK.el6.x86_64 #1 SMP Wed Oct 7 01:34:10 CDT 2020 x86_64) 
+[2022-09-11 13:06:01 : INFO] - MySQL: 5.6.41 
+[2022-09-11 13:06:01 : INFO] - WPLANG: pt_BR 
+[2022-09-11 13:06:01 : INFO] - Server: Apache 
+[2022-09-11 13:06:01 : INFO] - Outbound connections: N 
+[2022-09-11 13:06:01 : INFO] - safe_mode: 0 
+[2022-09-11 13:06:01 : INFO] - max_execution_time: 60 
+[2022-09-11 13:06:01 : INFO] - memory_limit: 512M (used: 17M | 18M) 
+[2022-09-11 13:06:01 : INFO] - multisite: N 
+[2022-09-11 13:06:01 : INFO] - openssl: OpenSSL 1.1.1m  14 Dec 2021 
+[2022-09-11 13:06:01 : INFO] - The queue for tasks of type "smush" is empty. Aborting! 
